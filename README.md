@@ -1,4 +1,7 @@
 # Tugas_Pemmob_Elearning5
+
+Dibawah ini merupakan hasil tugas e-elearning ke 5 di mata kuliah Pemograman Mobile 2. Mohon maaf tidak dapat menyertakan hasil screenshotan nya di karenakan ada error yang sulit di betulkan yaitu ndk nya antara error dan belum sepenuhnya terpasang. Sudah saya coba ulik namun masih tetap tidak dapat menampilkan hasil outputnya di device yang telah di sambungkan padahal code yang di gunakan serta file lainnya sudah benar tidak ada error sama sekali. Semoga ibu dapat memakluminya dan memberikan nilai disamping saya maish belajar dan usaha untuk mengikuti tiap materinya. Berikut code main.dart nya:
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -43,6 +46,8 @@ class MyApp extends StatelessWidget {
             ],
           ),
         ),
+
+Terima kasih.
       ),
     );
   }
